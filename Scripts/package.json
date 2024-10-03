@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+        "fs": "*",
+        "process": "*"
+    },
+    "scripts": {
+        "data": "node getDataFromAPI.js"
+    }
+}

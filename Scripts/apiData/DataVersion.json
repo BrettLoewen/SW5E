@@ -1,0 +1,371 @@
+[
+    {
+        "name": "MASTERVERSION",
+        "lastUpdated": "2023-05-06T20:49:49.83747Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "MASTERVERSION",
+        "timestamp": "2023-05-06T20:49:50.6194721+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6194721Z'\""
+    },
+    {
+        "name": "archetypes",
+        "lastUpdated": "2023-05-06T20:49:49.837476Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "archetypes",
+        "timestamp": "2023-05-06T20:49:50.6204716+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6204716Z'\""
+    },
+    {
+        "name": "armorProperties",
+        "lastUpdated": "2023-05-06T20:49:49.8374765Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "armorProperties",
+        "timestamp": "2023-05-06T20:49:50.6204716+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6204716Z'\""
+    },
+    {
+        "name": "backgrounds",
+        "lastUpdated": "2023-05-06T20:49:49.8374768Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "backgrounds",
+        "timestamp": "2023-05-06T20:49:50.6204716+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6204716Z'\""
+    },
+    {
+        "name": "characterAdvancementLU",
+        "lastUpdated": "2023-05-06T20:49:49.8374852Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "characterAdvancementLU",
+        "timestamp": "2023-05-06T20:49:50.6244699+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6244699Z'\""
+    },
+    {
+        "name": "classImprovements",
+        "lastUpdated": "2023-05-06T20:49:49.8374887Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "classImprovements",
+        "timestamp": "2023-05-06T20:49:50.6264691+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6264691Z'\""
+    },
+    {
+        "name": "classes",
+        "lastUpdated": "2023-05-06T20:49:49.8374772Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "classes",
+        "timestamp": "2023-05-06T20:49:50.6204716+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6204716Z'\""
+    },
+    {
+        "name": "conditionsLU",
+        "lastUpdated": "2023-05-06T20:49:49.8374856Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "conditionsLU",
+        "timestamp": "2023-05-06T20:49:50.6244699+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6244699Z'\""
+    },
+    {
+        "name": "credits",
+        "lastUpdated": "2023-05-06T20:49:49.8374779Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "credits",
+        "timestamp": "2023-05-06T20:49:50.6204716+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6204716Z'\""
+    },
+    {
+        "name": "enhancedItems",
+        "lastUpdated": "2023-05-06T20:49:49.8374783Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "enhancedItems",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "equipment",
+        "lastUpdated": "2023-05-06T20:49:49.8374786Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "equipment",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "expanded-content",
+        "lastUpdated": "2023-05-06T20:49:49.8374878Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "expanded-content",
+        "timestamp": "2023-05-06T20:49:50.6264691+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6264691Z'\""
+    },
+    {
+        "name": "feats",
+        "lastUpdated": "2023-05-06T20:49:49.837479Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "feats",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "featureDataLU",
+        "lastUpdated": "2023-05-06T20:49:49.837486Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "featureDataLU",
+        "timestamp": "2023-05-06T20:49:50.6244699+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6244699Z'\""
+    },
+    {
+        "name": "featureLevelLU",
+        "lastUpdated": "2023-05-06T20:49:49.8374863Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "featureLevelLU",
+        "timestamp": "2023-05-06T20:49:50.6254686+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6254686Z'\""
+    },
+    {
+        "name": "features",
+        "lastUpdated": "2023-05-06T20:49:49.8374795Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "features",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "fightingMasteries",
+        "lastUpdated": "2023-05-06T20:49:49.8374875Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "fightingMasteries",
+        "timestamp": "2023-05-06T20:49:50.6254686+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6254686Z'\""
+    },
+    {
+        "name": "fightingMastery",
+        "lastUpdated": "2021-09-06T14:21:03.9276903Z",
+        "version": 132,
+        "partitionKey": "Core",
+        "rowKey": "fightingMastery",
+        "timestamp": "2021-09-06T14:21:03.3558055+00:00",
+        "eTag": "W/\"datetime'2021-09-06T14%3A21%3A03.3558055Z'\""
+    },
+    {
+        "name": "fightingStyle",
+        "lastUpdated": "2021-09-06T14:21:03.9276901Z",
+        "version": 132,
+        "partitionKey": "Core",
+        "rowKey": "fightingStyle",
+        "timestamp": "2021-09-06T14:21:03.3548038+00:00",
+        "eTag": "W/\"datetime'2021-09-06T14%3A21%3A03.3548038Z'\""
+    },
+    {
+        "name": "fightingStyles",
+        "lastUpdated": "2023-05-06T20:49:49.8374871Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "fightingStyles",
+        "timestamp": "2023-05-06T20:49:50.6254686+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6254686Z'\""
+    },
+    {
+        "name": "lightsaberForms",
+        "lastUpdated": "2023-05-06T20:49:49.8374882Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "lightsaberForms",
+        "timestamp": "2023-05-06T20:49:50.6264691+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6264691Z'\""
+    },
+    {
+        "name": "maneuvers",
+        "lastUpdated": "2023-05-06T20:49:49.8374906Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "maneuvers",
+        "timestamp": "2023-05-06T20:49:50.6274678+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6274678Z'\""
+    },
+    {
+        "name": "monsters",
+        "lastUpdated": "2023-05-06T20:49:49.8374798Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "monsters",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "multiclassImprovements",
+        "lastUpdated": "2023-05-06T20:49:49.8374891Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "multiclassImprovements",
+        "timestamp": "2023-05-06T20:49:50.6274678+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6274678Z'\""
+    },
+    {
+        "name": "player-handbook-rules",
+        "lastUpdated": "2023-05-06T20:49:49.8374837Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "player-handbook-rules",
+        "timestamp": "2023-05-06T20:49:50.6234703+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6234703Z'\""
+    },
+    {
+        "name": "powers",
+        "lastUpdated": "2023-05-06T20:49:49.8374802Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "powers",
+        "timestamp": "2023-05-06T20:49:50.6214712+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6214712Z'\""
+    },
+    {
+        "name": "referenceTables",
+        "lastUpdated": "2023-05-06T20:49:49.8374806Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "referenceTables",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "skillsLU",
+        "lastUpdated": "2023-05-06T20:49:49.8374867Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "skillsLU",
+        "timestamp": "2023-05-06T20:49:50.6254686+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6254686Z'\""
+    },
+    {
+        "name": "species",
+        "lastUpdated": "2023-05-06T20:49:49.837481Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "species",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "splashclassImprovements",
+        "lastUpdated": "2023-05-06T20:49:49.8374895Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "splashclassImprovements",
+        "timestamp": "2023-05-06T20:49:50.6274678+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6274678Z'\""
+    },
+    {
+        "name": "starshipBaseSizes",
+        "lastUpdated": "2023-05-06T20:49:49.8374814Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starshipBaseSizes",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "starshipDeployments",
+        "lastUpdated": "2023-05-06T20:49:49.8374817Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starshipDeployments",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "starshipEquipment",
+        "lastUpdated": "2023-05-06T20:49:49.8374821Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starshipEquipment",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "starshipModifications",
+        "lastUpdated": "2023-05-06T20:49:49.8374826Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starshipModifications",
+        "timestamp": "2023-05-06T20:49:50.6224707+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6224707Z'\""
+    },
+    {
+        "name": "starshipVentures",
+        "lastUpdated": "2023-05-06T20:49:49.837483Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starshipVentures",
+        "timestamp": "2023-05-06T20:49:50.6234703+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6234703Z'\""
+    },
+    {
+        "name": "starships-rules",
+        "lastUpdated": "2023-05-06T20:49:49.8374841Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "starships-rules",
+        "timestamp": "2023-05-06T20:49:50.6234703+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6234703Z'\""
+    },
+    {
+        "name": "variant-rules",
+        "lastUpdated": "2023-05-06T20:49:49.8374845Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "variant-rules",
+        "timestamp": "2023-05-06T20:49:50.6234703+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6234703Z'\""
+    },
+    {
+        "name": "weaponFocuses",
+        "lastUpdated": "2023-05-06T20:49:49.8374898Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "weaponFocuses",
+        "timestamp": "2023-05-06T20:49:50.6274678+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6274678Z'\""
+    },
+    {
+        "name": "weaponProperties",
+        "lastUpdated": "2023-05-06T20:49:49.8374833Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "weaponProperties",
+        "timestamp": "2023-05-06T20:49:50.6234703+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6234703Z'\""
+    },
+    {
+        "name": "weaponSupremacies",
+        "lastUpdated": "2023-05-06T20:49:49.8374902Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "weaponSupremacies",
+        "timestamp": "2023-05-06T20:49:50.6274678+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6274678Z'\""
+    },
+    {
+        "name": "wretched-hives-rules",
+        "lastUpdated": "2023-05-06T20:49:49.8374848Z",
+        "version": 199,
+        "partitionKey": "Core",
+        "rowKey": "wretched-hives-rules",
+        "timestamp": "2023-05-06T20:49:50.6244699+00:00",
+        "eTag": "W/\"datetime'2023-05-06T20%3A49%3A50.6244699Z'\""
+    }
+]
