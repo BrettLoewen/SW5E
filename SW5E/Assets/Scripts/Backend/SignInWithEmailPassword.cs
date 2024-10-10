@@ -5,6 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 using TMPro;
 using UnityEngine;
 using System.Threading.Tasks;
+using System.IO;
 
 public class SignInWithEmailPassword : MonoBehaviour
 {
@@ -56,8 +57,11 @@ public class SignInWithEmailPassword : MonoBehaviour
     {
         try
         {
-            Session session = (await SupabaseManager.Supabase()!.Auth.SignUp(EmailInput.text, PasswordInput.text))!;
+            //Session session = (await SupabaseManager.Supabase()!.Auth.SignInWithPassword(EmailInput.text, PasswordInput.text))!;
+            Session session = (await SupabaseManager.Supabase()!.Auth.SignIn(EmailInput.text, PasswordInput.text))!;
+            //Session session = (await SupabaseManager.Supabase()!.Auth.SignUp(EmailInput.text, PasswordInput.text))!;
             ErrorText.text = $"Success! Signed Up as {session.User?.Email}";
+            Debug.Log($"Access Token: {session.AccessToken}");
         }
         catch (GotrueException goTrueException)
         {

@@ -4,6 +4,7 @@ using Supabase.Gotrue;
 using TMPro;
 using UnityEngine;
 using Client = Supabase.Client;
+using System.Threading.Tasks;
 
 public class SupabaseManager : MonoBehaviour
 {
@@ -23,6 +24,11 @@ public class SupabaseManager : MonoBehaviour
     public Client? Supabase() => _client;
 
     private async void Start()
+    {
+        await Setup();
+    }
+
+    private async Task Setup()
     {
         SupabaseOptions options = new();
         // We set an option to refresh the token automatically using a background thread.
@@ -108,5 +114,11 @@ public class SupabaseManager : MonoBehaviour
             _client?.Auth.Shutdown();
             _client = null;
         }
+    }
+
+
+    public void SendData()
+    {
+
     }
 }
